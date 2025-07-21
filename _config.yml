@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Homepage"
+title                    : "Haoran Jin's Homepage"
 title_separator          : "-"
 name                     : &name "靳浩然"
 description              : &description "Ph.D. student of USTC"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Haoran Jin's homepage!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
