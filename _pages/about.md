@@ -14,8 +14,8 @@ His research focuses on **Interpretability and Alignment of Large Language Model
 
 Recent Updates
 ------
-- **2025.07.06**: Our work *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation* has been accepted by **ACL 2025 Main Conference**! 🌟😉  
-- **2024.11.17**: Our work *Evaluating Readability and Faithfulness of Concept-based Explanations* (co-first authored with Meng Li) has been accepted by **EMNLP 2024 Main Conference**! ✨😆  
+- **2025.05.15**: Our work *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation* has been accepted by **ACL 2025 Main Conference**! 🌟😉  
+- **2024.09.24**: Our work *Evaluating Readability and Faithfulness of Concept-based Explanations* (co-first authored with Meng Li) has been accepted by **EMNLP 2024 Main Conference**! ✨😆  
 
 Educations
 ------
