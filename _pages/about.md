@@ -14,12 +14,8 @@ His research focuses on **Interpretability and Alignment of Large Language Model
 
 Recent Updates
 ------
-- 2025.07.06: One paper accepted by MM2025, congratulations to Mianzimei!🌟😉
-- 2025.06.11: Our extension work on designing ranking-consistent and generalizable objectives approximating Softmax Loss has been released on [arXiv](https://arxiv.org/abs/2506.09454)!🌟😉
-- 2025.01.27: One paper accepted by Machine Learning Journal, congratulations to Ruimeng!🌟😉
-- 2024.11.17: Our work on understanding the H-consistency of the two-tower model hypothesis space has been accepted by KDD2025!✨😆
-- 2024.05.02: Our work on designing a metric-consistent and generalizable squared-form loss has been accepted by ICML2024!✨😆
-- 2024.03.26: Our extension work on designing an automated and low-rank shallow autoencoder has been accepted by TORS!🌟😉
+- **2025.07.06**: Our work *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation* has been accepted by **ACL 2025 Main Conference**! 🌟😉  
+- **2024.11.17**: Our work *Evaluating Readability and Faithfulness of Concept-based Explanations* (co-first authored with Meng Li) has been accepted by **EMNLP 2024 Main Conference**! ✨😆  
 
 Educations
 ------
@@ -38,9 +34,28 @@ Educations
 Publications
 ------
 **Haoran Jin**, Meng Li, Xiting Wang\*, Zhihao Xu, Minlie Huang, Yantao Jia, Defu Lian\*. *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation.* Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025 Main Conference**), accepted, 2025.
+[[paper]](https://arxiv.org/abs/2507.11316) [[code]](https://github.com/hr-jin/ConVA)
 
 Meng Li†, **Haoran Jin†**, Ruixuan Huang, Zhihao Xu, Defu Lian, Zijia Lin, Di Zhang, and Xiting Wang\*. *Evaluating Readability and Faithfulness of Concept-based Explanations.* Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024 Main Conference**), pages 607–625, 2024. 
+[[paper]](https://aclanthology.org/2024.emnlp-main.36/) [[code]](https://github.com/hr-jin/Concept-Explanation-Evaluation)
 
 Qi Liu, Xuyang Hou, Defu Lian\*, Zhe Wang, **Haoran Jin**, Jia Cheng, Jun Lei. *AT4CTR: auxiliary match tasks for enhancing click-through rate prediction* Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (**AAAI 2024**). Vol. 38, No. 8, 2024.
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28725/29401) [[code]](https://github.com/hr-jin/AL4CTR-Codes)
 
 Defu Lian\*, Xu Huang, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, **Haoran Jin**, Rui Fan, Zheng Liu, Le Wu, Enhong Chen. *RecStudio: Towards a Highly-Modularized Recommender System.* Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**), pp. 2890-2900, 2023.
+[[paper]](https://dl.acm.org/doi/10.1145/3539618.3591894) [[code]](https://github.com/USTCLLM/RecStudio)
+
+Awards
+------
+* **Gold Medal for Outstanding Students** <span style="float:right">2022.10</span>
+
+* **CSEDM Competition** <span style="float:right">2022.05</span>
+
+    *Educational Data Mining in Computer Science Education*
+    
+    • <font color=Crimson><b>1st Place</b></font> in Exercise Performance Prediction Track [[results]](https://sites.google.com/ncsu.edu/csedm-dc-2021/winners)  
+    • <font color=Crimson><b>2nd Place</b></font> in Final Grade Prediction Track
+
+* **Huawei Scholarship** <span style="float:right">2021.10</span>
+
+    *Ranked <font color=Crimson><b>10th out of 175 (top 6%)</b></font> in comprehensive evaluation*
