@@ -50,12 +50,10 @@ Awards
 * **Gold Medal for Outstanding Students** <span style="float:right">2022.10</span>
 
 * **CSEDM Competition** <span style="float:right">2022.05</span>
-
-    *Educational Data Mining in Computer Science Education*
+    *Educational Data Mining in Computer Science Education* [[results]](https://sites.google.com/ncsu.edu/csedm-dc-2021/winners)  
     
-    • <font color=Crimson><b>1st Place</b></font> in Exercise Performance Prediction Track [[results]](https://sites.google.com/ncsu.edu/csedm-dc-2021/winners)  
+    • <font color=Crimson><b>1st Place</b></font> in Exercise Performance Prediction Track 
     • <font color=Crimson><b>2nd Place</b></font> in Final Grade Prediction Track
 
 * **Huawei Scholarship** <span style="float:right">2021.10</span>
-
     *Ranked <font color=Crimson><b>10th out of 175 (top 6%)</b></font> in comprehensive evaluation*
