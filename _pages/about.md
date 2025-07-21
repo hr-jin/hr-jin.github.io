@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-**Jin Haoran** (靳浩然) is a first-year Ph.D. student at the [School of Computer Science and Technology](https://cs.ustc.edu.cn/), University of Science and Technology of China (USTC). He received his B.Eng. degree in Computer Science and Technology from USTC in 2023 and continued his research as a Master’s student (2023–2025) before transitioning to the Ph.D. program in May 2025.  
+**Haoran Jin** (靳浩然) is a first-year Ph.D. student at the [School of Computer Science and Technology](https://cs.ustc.edu.cn/), University of Science and Technology of China (USTC). He received his B.Eng. degree in Computer Science and Technology from USTC in 2023 and continued his research as a Master’s student (2023–2025) before transitioning to the Ph.D. program in May 2025.  
 
 His research focuses on **Interpretability and Alignment of Large Language Models (LLMs)**, with an emphasis on enhancing the transparency, controllability, and safety of AI systems. He is particularly interested in activation engineering, mechanistic interpretability, and unsupervised interpretability paradigms.  
 
