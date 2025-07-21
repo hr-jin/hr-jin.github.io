@@ -36,7 +36,7 @@ Publications
 **Haoran Jin**, Meng Li, Xiting Wang\*, Zhihao Xu, Minlie Huang, Yantao Jia, Defu Lian\*. *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation.* Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025 Main Conference**), accepted, 2025.
 [[paper]](https://arxiv.org/abs/2507.11316) [[code]](https://github.com/hr-jin/ConVA)
 
-Meng Li†, **Haoran Jin†**, Ruixuan Huang, Zhihao Xu, Defu Lian, Zijia Lin, Di Zhang, and Xiting Wang\*. *Evaluating Readability and Faithfulness of Concept-based Explanations.* Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024 Main Conference**), pages 607–625, 2024. 
+Meng Li<sup>†</sup>, **Haoran Jin<sup>†</sup>**, Ruixuan Huang, Zhihao Xu, Defu Lian, Zijia Lin, Di Zhang, and Xiting Wang\*. *Evaluating Readability and Faithfulness of Concept-based Explanations.* Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024 Main Conference**), pages 607–625, 2024. 
 [[paper]](https://aclanthology.org/2024.emnlp-main.36/) [[code]](https://github.com/hr-jin/Concept-Explanation-Evaluation)
 
 Qi Liu, Xuyang Hou, Defu Lian\*, Zhe Wang, **Haoran Jin**, Jia Cheng, Jun Lei. *AT4CTR: auxiliary match tasks for enhancing click-through rate prediction* Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (**AAAI 2024**). Vol. 38, No. 8, 2024.
