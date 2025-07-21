@@ -20,7 +20,7 @@ Recent Updates
 Educations
 ------
 **University of Science and Technology of China (USTC)**  
-- **Ph.D.** in Computer Science and Technology
+- **Ph.D.** in Computer Science and Technology  
   *School of Computer Science and Technology* | Expected 2025.9 – Present
   - Transferred from Master’s to Ph.D. with a successive postgraduate-doctoral Program in May 2025.  
 
