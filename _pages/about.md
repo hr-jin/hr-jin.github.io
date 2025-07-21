@@ -26,7 +26,6 @@ Educations
 
 - **M.Eng.** in Computer Science and Technology (2023.9 – 2025.5)  
   *School of Computer Science and Technology*  
-  - Focused on foundational research for LLM interpretability and alignment.  
 
 - **B.Eng.** in Computer Science and Technology (2019.9 – 2023.6)  
   *School of Computer Science and Technology*  
