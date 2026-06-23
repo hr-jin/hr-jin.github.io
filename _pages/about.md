@@ -14,6 +14,7 @@ His research focuses on **Interpretability and Alignment of Large Language Model
 
 Recent Updates
 ------
+- **2026.05**: Our work *C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders* has been accepted by **ICML 2026**! 🎉😄  
 - **2025.05.15**: Our work *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation* has been accepted by **ACL 2025 Main Conference**! 🌟😉  
 - **2024.09.24**: Our work *Evaluating Readability and Faithfulness of Concept-based Explanations* (co-first authored with Meng Li) has been accepted by **EMNLP 2024 Main Conference**! ✨😆  
 
@@ -32,6 +33,9 @@ Educations
 
 Publications
 ------
+**Haoran Jin**, Xiting Wang\*, Shijie Ren\*, Hong Xie, Defu Lian\*. *C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders.* Proceedings of the 43rd International Conference on Machine Learning (**ICML 2026**), accepted, 2026.
+[[paper]](https://icml.cc/virtual/2026/poster/63626) [[code]](https://github.com/hr-jin/Cross-sample-Consistency-Regularization)
+
 **Haoran Jin**, Meng Li, Xiting Wang\*, Zhihao Xu, Minlie Huang, Yantao Jia, Defu Lian\*. *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation.* Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025 Main Conference**), accepted, 2025.
 [[paper]](https://arxiv.org/abs/2507.11316) [[code]](https://github.com/hr-jin/ConVA)
 
@@ -46,6 +50,8 @@ Defu Lian\*, Xu Huang, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, **Hao
 
 Awards
 ------
+* **National Scholarship for Graduate Students** <span style="float:right">2025.12</span>
+
 * **Gold Medal for Outstanding Students** <span style="float:right">2022.10</span>
 
 * **CSEDM Competition** <span style="float:right">2022.05</span>
