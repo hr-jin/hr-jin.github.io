@@ -10,13 +10,11 @@ redirect_from:
 
 **Haoran Jin** (靳浩然) is a first-year Ph.D. student at the [School of Computer Science and Technology](https://cs.ustc.edu.cn/), University of Science and Technology of China (USTC). He received his B.Eng. degree in Computer Science and Technology from USTC in 2023 and continued his research as a Master’s student (2023–2025) before transitioning to the Ph.D. program in May 2025.  
 
-His research focuses on **Interpretability and Alignment of Large Language Models (LLMs)**, with an emphasis on enhancing the transparency, controllability, and safety of AI systems. He is particularly interested in activation engineering, mechanistic interpretability, and unsupervised interpretability paradigms.  
+His research focuses on **Interpretability and Alignment of Large Language Models (LLMs)**, with an emphasis on enhancing the transparency, controllability, and safety of AI systems. He is particularly interested in activation engineering, mechanistic interpretability, unsupervised interpretability paradigms, auto-research agents, and agent trace evaluation.  
 
 Recent Updates
 ------
-- **2026.05**: Our work *C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders* has been accepted by **ICML 2026**! 🎉😄  
-- **2025.05.15**: Our work *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation* has been accepted by **ACL 2025 Main Conference**! 🌟😉  
-- **2024.09.24**: Our work *Evaluating Readability and Faithfulness of Concept-based Explanations* (co-first authored with Meng Li) has been accepted by **EMNLP 2024 Main Conference**! ✨😆  
+- **2026.05**: Our work *C<sup>2</sup>R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders* has been accepted by **ICML 2026**! 🎉😄  
 
 Educations
 ------
@@ -33,7 +31,7 @@ Educations
 
 Publications
 ------
-**Haoran Jin**, Xiting Wang\*, Shijie Ren\*, Hong Xie, Defu Lian\*. *C$^2$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders.* Proceedings of the 43rd International Conference on Machine Learning (**ICML 2026**), accepted, 2026.
+**Haoran Jin**, Xiting Wang\*, Shijie Ren\*, Hong Xie, Defu Lian\*. *C<sup>2</sup>R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders.* Proceedings of the 43rd International Conference on Machine Learning (**ICML 2026**), accepted, 2026.
 [[paper]](https://icml.cc/virtual/2026/poster/63626) [[code]](https://github.com/hr-jin/Cross-sample-Consistency-Regularization)
 
 **Haoran Jin**, Meng Li, Xiting Wang\*, Zhihao Xu, Minlie Huang, Yantao Jia, Defu Lian\*. *Internal Value Alignment in Large Language Models through Controlled Value Vector Activation.* Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025 Main Conference**), accepted, 2025.
@@ -50,7 +48,7 @@ Defu Lian\*, Xu Huang, Xiaolong Chen, Jin Chen, Xingmei Wang, Yankai Wang, **Hao
 
 Awards
 ------
-* **National Scholarship for Graduate Students** <span style="float:right">2025.12</span>
+* **<font color=Crimson>National Scholarship for Graduate Students</font>** <span style="float:right">2025.12</span>
 
 * **Gold Medal for Outstanding Students** <span style="float:right">2022.10</span>
 
